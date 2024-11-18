@@ -1,4 +1,4 @@
-# Assignment 4: End-to-end research canvas tool
+# DocQuest: End-to-end research canvas tool
 
 ## Project Overview
 
