@@ -89,6 +89,6 @@ The application is containerized using Docker Compose. Run the following command
 docker-compose up
 ```
 
-**Documentation**: [[Google Docs](h[ttps://codelabs-preview.appspot.com/?file_id=11XVdlzZ8DJotFKU9-hZb4OrUASjitlK7xsWqiVxxNzg#0](https://docs.google.com/document/d/1HeffgjFMrAeAeBNolJR-Uvlt_HXiod72Gq8MQt7NCM0/edit?usp=sharing))]
+**Documentation**: [[Google Docs](https://codelabs-preview.appspot.com/?file_id=11XVdlzZ8DJotFKU9-hZb4OrUASjitlK7xsWqiVxxNzg#0](https://docs.google.com/document/d/1HeffgjFMrAeAeBNolJR-Uvlt_HXiod72Gq8MQt7NCM0/edit?usp=sharing))]
 
 
